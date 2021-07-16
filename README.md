@@ -3,6 +3,7 @@ Algorithm을 공부한 것을 정리하는 repository
 
 ## [코드잇] 알고리즘의 정석
 1. 좋은 알고리즘이란? 
+2. 재귀 함수
 
 ### Google Python Style Guide
   - pylint 을 사용할 것을 권장
