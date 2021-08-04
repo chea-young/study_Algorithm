@@ -1,1 +1,0 @@
-grid = [[0 for _ in range(row)] for _ in range(col)]
