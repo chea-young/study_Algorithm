@@ -6,5 +6,6 @@
     4. 2차원 Array
     5. 일반정렬
     6. 객체 정렬
+#### Simulation - 2일차: 
 
 [출처]: CODETREE: [https://www.codetree.ai/]
